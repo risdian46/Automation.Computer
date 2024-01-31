@@ -19,3 +19,10 @@ We will create extent report in BDD style using Specflow and Selenium C# with ba
 ![Alt text](image-3.png)
 Screenshot for failed test result
 ![Alt text](image-4.png)
+## 3. How To run the Specflow Feature test
+ 1. Expand Test Explorer
+ 2. Expand Automation.Computer.Test.TestCases.
+ 3. Select one of the Feature test (eg, UserIsAbleToAddNewComputer)
+ 4. Right Click on the selected Feture test file 
+ 5. Click Run
+ ![Alt text](image-5.png)
